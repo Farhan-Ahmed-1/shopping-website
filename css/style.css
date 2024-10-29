@@ -200,7 +200,7 @@ button {
 }
 
 .layout_padding {
-    padding-top: 90px;
+    padding-top: 75px;
     padding-bottom: 0px;
 }
 
@@ -486,7 +486,7 @@ a:hover {
 .banner_taital {
     width: 100%;
     font-size: 60px;
-    color: #ffffff;
+    color: #f5e31d;
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
